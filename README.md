@@ -1,1 +1,1 @@
-# data-covid
+# COVID-Alura
